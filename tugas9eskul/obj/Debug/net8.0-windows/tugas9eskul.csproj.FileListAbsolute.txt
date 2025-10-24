@@ -1,0 +1,48 @@
+C:\windows pbo\tugas9eskul\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.exe
+C:\windows pbo\tugas9eskul\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.deps.json
+C:\windows pbo\tugas9eskul\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.runtimeconfig.json
+C:\windows pbo\tugas9eskul\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.dll
+C:\windows pbo\tugas9eskul\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.pdb
+C:\windows pbo\tugas9eskul\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.Form1.resources
+C:\windows pbo\tugas9eskul\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.csproj.GenerateResource.cache
+C:\windows pbo\tugas9eskul\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.GeneratedMSBuildEditorConfig.editorconfig
+C:\windows pbo\tugas9eskul\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.AssemblyInfoInputs.cache
+C:\windows pbo\tugas9eskul\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.AssemblyInfo.cs
+C:\windows pbo\tugas9eskul\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.csproj.CoreCompileInputs.cache
+C:\windows pbo\tugas9eskul\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.dll
+C:\windows pbo\tugas9eskul\tugas9eskul\obj\Debug\net8.0-windows\refint\tugas9eskul.dll
+C:\windows pbo\tugas9eskul\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.pdb
+C:\windows pbo\tugas9eskul\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.genruntimeconfig.cache
+C:\windows pbo\tugas9eskul\tugas9eskul\obj\Debug\net8.0-windows\ref\tugas9eskul.dll
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.exe
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.deps.json
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.runtimeconfig.json
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.dll
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.pdb
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.Form1.resources
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.csproj.GenerateResource.cache
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.GeneratedMSBuildEditorConfig.editorconfig
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.AssemblyInfoInputs.cache
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.AssemblyInfo.cs
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.csproj.CoreCompileInputs.cache
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.dll
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\refint\tugas9eskul.dll
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.pdb
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.genruntimeconfig.cache
+C:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\ref\tugas9eskul.dll
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.exe
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.deps.json
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.runtimeconfig.json
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.dll
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\bin\Debug\net8.0-windows\tugas9eskul.pdb
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.Form1.resources
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.csproj.GenerateResource.cache
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.AssemblyInfoInputs.cache
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.AssemblyInfo.cs
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.csproj.CoreCompileInputs.cache
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.dll
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\refint\tugas9eskul.dll
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.pdb
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\tugas9eskul.genruntimeconfig.cache
+D:\windows pbo\tugas9eskul - Copy\tugas9eskul\obj\Debug\net8.0-windows\ref\tugas9eskul.dll
